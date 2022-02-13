@@ -1,0 +1,49 @@
+body{
+  background-color: #ff9999;
+  color: #000000;
+  font-family: Garamond, serif;
+  font-weight: bold;
+}
+.center{
+  text-align:center;
+}
+#quotes{
+
+}
+.button1{
+  border: none;
+  color: black;
+  background-color: red;
+  text-align: center;
+  padding: 15px 35px;
+  font-size:16px;
+  cursor: pointer;
+}
+.button2{
+  display: inline;
+  border: none;
+  color: black;
+  background-color: green;
+  text-align: center;
+  padding: 15px 32px;
+  font-size:16px;
+  cursor: pointer;
+}
+.table{
+  text-align: center;
+  display: table;
+  margin-left:auto;
+  margin-right:auto;
+  border-style: none;
+  border-width: 1px;
+}
+.row{
+  display: table-row;
+}
+.cell0{
+  display: table-cell;
+
+}
+.emptyCell{
+  display: table:cell; 
+}
